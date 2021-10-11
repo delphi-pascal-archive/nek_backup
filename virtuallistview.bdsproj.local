@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2006.02.03 17:17:06.705.pas,C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\VListView.pas=C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\B\VListView.pas</Transaction>
+    <Transaction>2006.02.03 17:17:06.735.dfm,C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\VListView.dfm=C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\B\VListView.dfm</Transaction>
+    <Transaction>2006.02.03 17:17:14.666.pas,C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\ABOUT.pas=C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\B\ABOUT.pas</Transaction>
+    <Transaction>2006.02.03 17:17:14.666.dfm,C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\ABOUT.dfm=C:\Documents and Settings\Nek\Мои документы\CyberLink\Virtual Listview\B\ABOUT.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
